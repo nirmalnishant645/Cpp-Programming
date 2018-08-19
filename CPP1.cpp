@@ -20,7 +20,7 @@ int main()
 			cto++;
 		}
 	}
-	cout<<"Total even numbers:"<<cte;
+	cout<<"\nTotal even numbers:"<<cte;
 	cout<<"\nTotal odd numbers:"<<cto;
 	cout<<"\nSum of even numbers:"<<se;
 	cout<<"\nSum of odd numbers:"<<so;
