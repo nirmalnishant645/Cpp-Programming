@@ -9,7 +9,7 @@ int main()
 	cin>>a>>b;
 	for(i=0;i<b;i++)
 		m=m+a;
-	cout<<"Output:"<<m;
+	cout<<"Output: \n"<<m;
 	getch();
 }
 
