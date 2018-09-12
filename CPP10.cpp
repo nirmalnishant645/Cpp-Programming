@@ -1,7 +1,6 @@
 //Design a class distance with 2 private data members to store the distance in inches and feet.
 #include<iostream>
 #include<conio.h>
-using namespace std;
 class distance
 {
 	private:
@@ -11,12 +10,12 @@ class distance
 	int d;
 	 void dist()
 	 {
-		cout<<"Enter the distance(in cm): ";
-		cin>>d;
+		std::cout<<"Enter the distance(in cm): ";
+		std::cin>>d;
 		inches=d/2.54;
 		feet=d/12;
-		cout<<"Inches: "<<inches;
-		cout<<"\nFeet: "<<feet;
+		std::cout<<"Inches: "<<inches;
+		std::cout<<"\nFeet: "<<feet;
 	 }
 };
 int main()
