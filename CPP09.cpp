@@ -1,4 +1,4 @@
-//Create the four functions for calculator. The program should request the user to enter a number, an operator and another number. It should then carry out the specified arithmetical operation: adding, multiplying or dividing the 2 numbers. Finally it should display the result. When it finishes the calculation, the program should ask if the user wants to do another calculation.
+//Create the four functions for calculator. The program should request the user to enter a number, an operator and another number. It should then carry out the specified arithmetical operation: adding, multiplying or dividing the 2 numbers. Finally it should display the result. When it finishes the calculation, the program should ask if the user wants to do another calculation as well.
 #include<iostream>
 #include<conio.h>
 using namespace std;
